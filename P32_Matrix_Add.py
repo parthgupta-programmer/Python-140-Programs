@@ -20,6 +20,7 @@ for i in range(rows):
     matrix2.append(l)
 
 r=[]
+print("Result of Matrix 1 + Matrix 2:")
 for i in range(rows):
     l=[]
     for j in range(colmns):
