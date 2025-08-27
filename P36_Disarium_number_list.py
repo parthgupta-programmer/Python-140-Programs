@@ -7,9 +7,10 @@ def dis(n):
     s=sum([d**(i) for i,d in enumerate(digits,start=1)])
     if(s==int(n)):
         return 1
-    else:
+    else: 
         return 0
 l=[]
+
 print("List of disarium number between 1 and 100:")
 for i in range(1,101):
     if(dis(i)==1):

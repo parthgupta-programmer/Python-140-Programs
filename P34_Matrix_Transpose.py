@@ -6,7 +6,8 @@ print("Matrix :")
 
 r=int(input("Rows:"))
 c=int(input("Columns:"))
-
+ 
+ 
 print("Enter the elements of the matrix:")
 matrix=[]
 for i in range(r):

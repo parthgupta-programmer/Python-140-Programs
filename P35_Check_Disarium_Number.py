@@ -8,6 +8,7 @@
 
 # Approach 1
 
+
 n=int(input("Enter any number:"))
 temp=n
 temp2=n
