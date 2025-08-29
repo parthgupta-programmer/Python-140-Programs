@@ -1,4 +1,4 @@
-# Program 36
+# Program 37
 # Write a Python program to check if the number entered is a harshad number or not.
 
 # A Harshad number (or Niven number) is an integer that is divisible by the sum of its digits.
